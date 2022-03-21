@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/made%20with-python-red.svg" alt="made with python"> <img src = "https://img.shields.io/github/languages/count/neli12/DSM-clay-content"> <img src = "https://img.shields.io/github/license/neli12/DSM-clay-content?color=green"> <img src = "https://img.shields.io/github/downloads/neli12/DSM-clay-content/total">
+<img src = "https://img.shields.io/github/last-commit/neli12/DSM-clay-content"> <img src = "https://img.shields.io/github/languages/count/neli12/DSM-clay-content"> <img src = "https://img.shields.io/github/license/neli12/DSM-clay-content?color=green"> <img src = "https://img.shields.io/github/downloads/neli12/DSM-clay-content/total"> <img src = "https://img.shields.io/github/watchers/neli12/DSM-clay-content?style=social">
 
 # Digital mapping of soil clay content
 (work in progress!)  
