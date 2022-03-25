@@ -12,5 +12,5 @@ The follwing datasets were used:
 - `dataset.csv`: This file contains four columns
     - `X` and `Y`: Longitude and Latitude coordinates in EPSG: 4326 (WGS84).
     - `Clay.gkg`: Clay content in the soil in grams per kilogram.
-    - `OM.gkg`: Organic matter content in the soil in grams per kilogram.
+    - `OM.gkg`: Organic matter content in the soil in grams per kilogram. This attribute is not used in predictions
 - `SYSI.tif`: Bare soil image with six spectral bands used as predictors of the behavior of the clay content in the modeling process.
